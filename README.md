@@ -1,2 +1,3 @@
-# ms_1172
-Global Mushroom Game Server Source v117.2
+## Erics v117.2 Source
+THIS SOURCE IS WIP, AND NOT ACTIVELY MAINTAINED.
+
