@@ -4,7 +4,7 @@
  * @rev: 2.1 - Multi-spawn randomization
  *
 */
-importPackage(Packages.server.life);
+
 var MonsterRush;
 var maps = Array(260000000, 680000000, 211000000, 600000000, 120000000);
 var mobPosX = Array(108, 2037, -1463, 2031, 1180);

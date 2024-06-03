@@ -4,7 +4,6 @@
  * @func: Guy Fawkes (MV) Initiation NPC
  * @note: Matched to be GMS-like.
 */
-importPackage(Packages.client);
 var status = 0;
 
 function start() {

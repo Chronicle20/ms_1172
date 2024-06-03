@@ -22,7 +22,7 @@
 /* Fredrick NPC (9030000)
  * By Moogra
  */
-importPackage(Packages.server);
+// importPackage(Packages.server);
 
 var status = 0;
 var choice;

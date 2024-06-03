@@ -24,11 +24,11 @@
  * 
  * Wedding for odinMS
  */
-importPackage(java.lang);
-
-importPackage(Packages.world);
-importPackage(Packages.client);
-importPackage(Packages.server.maps);
+// importPackage(java.lang);
+//
+// importPackage(Packages.world);
+// importPackage(Packages.client);
+// importPackage(Packages.server.maps);
 
 var exitMap;
 var altarMap;

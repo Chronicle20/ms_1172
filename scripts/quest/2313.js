@@ -8,8 +8,6 @@ Version 1.0 - Script Done.(18/7/2010)
 =============================================================
 */
 
-importPackage(Packages.client);
-
 var status = -1;
 
 function start(mode, type, selection) {
@@ -46,6 +44,5 @@ function end(mode, type, selection) {
 		qm.forceCompleteQuest(); 
 		qm.gainExp(4000);
 		qm.dispose();
-		}
 	}
 	

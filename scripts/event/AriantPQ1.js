@@ -2,8 +2,8 @@
  * @author: Jvlaple | Eric
  * @func: Ariant Coliseum one
  */
-importPackage(java.lang);
-importPackage(Packages.tools.packet);
+// importPackage(java.lang);
+// importPackage(Packages.tools.packet);
 
 var exitMap;
 var instanceId;

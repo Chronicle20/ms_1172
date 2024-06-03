@@ -1,4 +1,4 @@
-importPackage(Packages.tools.packet);
+// importPackage(Packages.tools.packet);
 
 function start() {
 	if (cm.getPlayer().getItemEffect() > 0) {

@@ -3,8 +3,6 @@
  *@Map(s):     All Dojo fighting maps
  *@Function:   Spawns dojo monsters and handles time
 */
-importPackage(Packages.server.life);
-importPackage(Packages.tools);
 
 function start(ms) {
     try {

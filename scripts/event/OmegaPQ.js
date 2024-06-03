@@ -37,12 +37,12 @@ INSERT monsterdrops (monsterid,itemid,chance) VALUES (9300002,4001008,1);
 INSERT monsterdrops (monsterid,itemid,chance) VALUES (9300003,4001008,1);
 */
 
-importPackage(Packages.world);
-importPackage(Packages.server.life);
-importPackage(Packages.server);
-importPackage(Packages.server.maps);
-importPackage(Packages.tools);
-importPackage(Packages.client);
+// importPackage(Packages.world);
+// importPackage(Packages.server.life);
+// importPackage(Packages.server);
+// importPackage(Packages.server.maps);
+// importPackage(Packages.tools);
+// importPackage(Packages.client);
 
 var exitMap;
 var allowMapChange = true;

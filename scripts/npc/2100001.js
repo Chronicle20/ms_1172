@@ -4,10 +4,6 @@
 	Description: 	Jewel Refiner
 */
 
-
-
-importPackage(Packages.client);
-
 var status = 0;
 var selectedType = -1;
 var selectedItem = -1;

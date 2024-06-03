@@ -8,8 +8,6 @@ Version 1.0 - Script Done.(16/5/2010)
 =============================================================
 */
 
-importPackage(Packages.client);
-
 var status = -1;
 
 function start(mode, type, selection) {

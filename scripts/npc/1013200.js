@@ -8,8 +8,6 @@ Version 1.0 - Script Done.(4/6/2010)
 =============================================================
 */
 
-importPackage(Packages.client);
-
 var status = 0;
 
 function start() {

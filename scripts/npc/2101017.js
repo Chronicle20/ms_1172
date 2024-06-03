@@ -5,9 +5,6 @@
  * @func: Ariant PQ (Outdated GMS-like text, AriantPQ is closed off and I am unable to get this.)
 */
 
-importPackage(Packages.tools);
-importPackage(Packages.client);
-
 var status = -1;
 var sel;
 

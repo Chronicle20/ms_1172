@@ -6,7 +6,7 @@
  * @notes: Need to update the text, i couldn't think of anything. 
  *
 */
-importPackage(Packages.client);
+
 var status = 0;
 
 function start() {

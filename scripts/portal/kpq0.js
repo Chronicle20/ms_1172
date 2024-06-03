@@ -22,8 +22,6 @@
 /*
 Kerning PQ: 1st stage to 2nd stage portal
 */
-importPackage(Packages.server.maps);
-
 function enter(pi) {
     var eim = pi.getPlayer().getEventInstance();
     var target = eim.getMapInstance(103000801);

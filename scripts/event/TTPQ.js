@@ -1,10 +1,10 @@
 
-importPackage(Packages.world);
-importPackage(Packages.server.life);
-importPackage(Packages.server);
-importPackage(Packages.server.maps);
-importPackage(Packages.tools);
-importPackage(Packages.client);
+// importPackage(Packages.world);
+// importPackage(Packages.server.life);
+// importPackage(Packages.server);
+// importPackage(Packages.server.maps);
+// importPackage(Packages.tools);
+// importPackage(Packages.client);
 
 var exitMap;
 var allowMapChange = true;

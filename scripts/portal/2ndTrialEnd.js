@@ -2,11 +2,11 @@
 
 
 /*
- * È÷³ª¿Â¶óÀÎ ¼Ò½º ½ºÅ©¸³Æ® ÀÔ´Ï´Ù.
+ * ï¿½ï¿½ï¿½ï¿½ï¿½Â¶ï¿½ï¿½ï¿½ ï¿½Ò½ï¿½ ï¿½ï¿½Å©ï¿½ï¿½Æ® ï¿½Ô´Ï´ï¿½.
  * Translated / Recoded by JakeK from AthenaMS .
  */
 
-importPackage(java.lang)
+// importPackage(java.lang)
 
 function enter(pi) {
     if (pi.haveItem(4031013, 20)) {

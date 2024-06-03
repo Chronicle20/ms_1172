@@ -4,8 +4,6 @@
  * @notes: Warp now warps the world of JQers not just the map.
 */
 
-importPackage(Packages.client);
-
 function start() {
    action(1, 0, 0);
 }

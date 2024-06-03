@@ -1,5 +1,3 @@
-importPackage(Packages.client);
-
 var status = 0;
 var selected = 1;
 var wui = 0;

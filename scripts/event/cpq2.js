@@ -1,5 +1,3 @@
-importPackage(Packages.tools.packet);
-
 var exitMap = 0;
 var waitingMap = 1;
 var reviveMap = 2;

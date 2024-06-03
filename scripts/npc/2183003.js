@@ -1,12 +1,12 @@
-importPackage(java.lang);
-importPackage(java.util);
-importPackage(Packages.tools);
-importPackage(Packages.server.quest);
-importPackage(Packages.client);
-importPackage(Packages.scripting);
-importPackage(Packages.handling.channel);
-importPackage(Packages.handling);
-importPackage(Packages.handling.world);
+// importPackage(java.lang);
+// importPackage(java.util);
+// importPackage(Packages.tools);
+// importPackage(Packages.server.quest);
+// importPackage(Packages.client);
+// importPackage(Packages.scripting);
+// importPackage(Packages.handling.channel);
+// importPackage(Packages.handling);
+// importPackage(Packages.handling.world);
 var status = -1;
 var partymembers;
 

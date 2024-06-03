@@ -1,4 +1,3 @@
-importPackage(Packages.client);
 
 function enter(pi) {
 	switch(pi.getMapId()) {

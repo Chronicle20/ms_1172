@@ -1,6 +1,6 @@
 //Script by Alcandon 
 
-importPackage(Packages.server);
+// importPackage(Packages.server);
 
 var status = 0;
 
