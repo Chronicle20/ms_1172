@@ -26,7 +26,7 @@
         <!-- Dependencies -->
         <slf4j-api.version>2.0.17</slf4j-api.version> <!-- Logging facade -->
         <log4j.version>2.23.1</log4j.version> <!-- Slf4j implementation -->
-        <graalvm.version>24.0.1</graalvm.version> <!-- ScriptEngine implementation -->
+        <graalvm.version>24.2.2</graalvm.version> <!-- ScriptEngine implementation -->
         <yamlbeans.version>1.17</yamlbeans.version> <!-- Config file -->
         <jcip-annotations.version>1.0</jcip-annotations.version> <!-- Annotations for concurrency documentation -->
         <HikariCP.version>5.1.0</HikariCP.version> <!-- Database connection pool -->
