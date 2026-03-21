@@ -1,4 +1,4 @@
-FROM maven:3.9.6-eclipse-temurin-22-alpine AS jar
+FROM maven:3.9.9-eclipse-temurin-22-alpine AS jar
 
 # Build in a separated location which won't have permissions issues.
 WORKDIR /opt/dir
