@@ -12,7 +12,7 @@ RUN mvn -f ./pom.xml clean dependency:go-offline -Dmaven.test.skip -T 1C
 COPY src ./src
 RUN mvn -f ./pom.xml clean package -Dmaven.test.skip -T 1C
 
-FROM eclipse-temurin:22-alpine
+FROM eclipse-temurin:25-alpine
 
 # Host the server in a location that won't have permissions issues.
 WORKDIR /opt/server
