@@ -3,10 +3,12 @@
   "extends": [
     "config:recommended"
   ],
+  "platformAutomerge": true,
   "packageRules": [
     {
       "matchManagers": ["maven"],
-      "automerge": true
+      "automerge": true,
+      "automergeType": "pr"
     }
   ]
 }
